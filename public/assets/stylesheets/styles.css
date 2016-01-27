@@ -173,6 +173,7 @@ p, .normaltext {
     overflow-wrap: break-word;
     color: #272a34;
     line-height: 1.5;
+	padding: 0 15px;
 }
 
 ul {
